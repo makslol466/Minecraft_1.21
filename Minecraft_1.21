@@ -5,10 +5,9 @@
         <h1 style="text-align:center;">Minecraft</h1>
         <p style="color: green">Мєнкрафт- це виживання в пісочниці, пригоди
             Одиночний і розрахований на багато користувачів режими</p>
-        <p><img src="https://www.minecraft.net/content/dam/minecraftnet/games/dungeons/key-art/Homepage_Discover-our-games_MC-Dungeons-KeyArt_864x864.jpg"width="300px" height="300px"/>
-        <img src="https://www.minecraft.net/content/dam/minecraftnet/games/badger/key-art/Homepage_Discover-our-games_MC-Legends-KeyArt_864x864.jpg"width="300px" height="300px"/>
-        <img src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg"width="300px" height="300px"/></p>
-        <p>
+        <img src="https://www.minecraft.net/content/dam/minecraftnet/games/dungeons/key-art/Homepage_Discover-our-games_MC-Dungeons-KeyArt_864x864.jpg"width="200px" height="200px"/>
+        <img src="https://www.minecraft.net/content/dam/minecraftnet/games/badger/key-art/Homepage_Discover-our-games_MC-Legends-KeyArt_864x864.jpg"width="200px" height="200px"/>
+        <img src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg"width="200px" height="200px"/>
         <table style="border:1px solid blue;">
             <tr>
                 <td style="border:1px solid blue;color: green">версія режиму</td>
@@ -38,8 +37,7 @@
             <iframe width="709" height="409" src="https://www.youtube.com/embed/CoZ2V7XsSYk"
                 title="Minecraft Dungeons: Ultimate Edition Trailer" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </p>
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
         <p style="color: green">Данжен-кроулер, RPG-екшн
             Одиночний і розрахований на багато користувачів режими проходіть сюжет покращуючи свої статистики виграйте
             зло</p>
