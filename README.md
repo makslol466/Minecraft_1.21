@@ -1,5 +1,5 @@
 <html>
-    
+
 <body style="background:lightgreen;font-family:sans-serif;">
     <header>
         <h1 style="text-align:center;">Minecraft</h1>
